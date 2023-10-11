@@ -1,2 +1,2 @@
-# project1
-projeto teste
+# Project: Recipes | The Odin Project
+Fazendo os "assignments" do Odin Project.
